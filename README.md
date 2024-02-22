@@ -1,16 +1,12 @@
-### Hi there 👋
+# みゃおん / Yuma Tanaka
 
-<!--
-**Myaon/Myaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- XRエンジニア
+- 徳山高専 機械制御工学専攻卒（2020.3）
+- 株式会社ホロラボ入社（2023.1~現在）
+- 好きな技術領域
+  - ロボット
+  - XR
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Media
+- [Twitter](https://twitter.com/blackcatyuma)
+- [Zenn](https://zenn.dev/myaon)
