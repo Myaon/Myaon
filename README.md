@@ -6,7 +6,10 @@
 - 好きな技術領域
   - ロボット
   - XR
+- お仕事や開発の依頼、相談があればTwitterのDMへ
 
 # Media
 - [Twitter](https://twitter.com/blackcatyuma)
 - [Zenn](https://zenn.dev/myaon)
+- [Wantedly](https://www.wantedly.com/id/blackcatyuma)
+- [Facebook](https://www.facebook.com/yuma.tanaka.925602/)
