@@ -13,3 +13,4 @@
 - [Zenn](https://zenn.dev/myaon)
 - [Wantedly](https://www.wantedly.com/id/blackcatyuma)
 - [Facebook](https://www.facebook.com/yuma.tanaka.925602/)
+- [LinkedIn](https://www.linkedin.com/in/yuma-tanaka-japan-kosen/)
