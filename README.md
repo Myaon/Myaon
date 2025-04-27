@@ -19,6 +19,7 @@
 - 2023.1 [Tokyo HoloLens ミートアップ vol.32 MRロボコン展示出展](https://x.com/blackcatyuma/status/1616793707696771073)
 - 2023.2 [MRHack Microsoft賞受賞](https://x.com/blackcatyuma/status/1629786619799797762)
 - 2023.3 [LODGE XR Talk Vol.1 MRロボコン展示](https://lodge-xr-talk-01.peatix.com/view)
+- 2023.6 [【#XRMTG】XRミーティング 2023/06/21 登壇 pico4でMRTK3を触る](https://youtu.be/SZ88T0c6xVE?si=zv6Vj5kp09FijV4J)
 - 2023.7 [TechSeeker MR可不展示出展](https://x.com/blackcatyuma/status/1680347937078153216)
 - 2023.8 [LODGE XR Talk Vol.6 Summer Special MR可不展示出展](https://x.com/blackcatyuma/status/1689825676042604544)
 - 2023.11 [スキャンソン in 秋吉台 企画運営](https://note.com/blackuma/n/n091df783ddc3)
